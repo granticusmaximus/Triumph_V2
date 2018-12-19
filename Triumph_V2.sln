@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triumph.Web", "Triumph.Web\Triumph.Web.csproj", "{19FA853F-3ED1-42A1-B129-16AAE5BF032B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19FA853F-3ED1-42A1-B129-16AAE5BF032B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FA853F-3ED1-42A1-B129-16AAE5BF032B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FA853F-3ED1-42A1-B129-16AAE5BF032B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FA853F-3ED1-42A1-B129-16AAE5BF032B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
